@@ -1,2 +1,3 @@
-# OIBSIP
-Oasis Infobyte Intership Projects Using HTML, CSS and JS
+# Oasis Infobyte internship projects
+
+A collection of web development exercises using HTML, CSS and JavaScript from my Oasis Infobyte internship.
